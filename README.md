@@ -1,1 +1,1 @@
-# myDiner
+# MyDiner
